@@ -1,0 +1,16 @@
+# 临时文件与本地草稿
+*.tmp
+*.bak
+*.log
+.DS_Store
+Thumbs.db
+
+# 本地私有素材（不要误传简历、候选人资料）
+private/
+_草稿/
+draft/
+*.local.md
+
+# 但保留正式素材
+!assets/*.png
+!assets/*.jpg
