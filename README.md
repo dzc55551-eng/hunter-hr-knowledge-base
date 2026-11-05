@@ -51,9 +51,6 @@
 
 <img src="./assets/qrcode-only.png" width="260" alt="猎头HR全能知识库 知识码二维码">
 
-> 截图里这张是从官方知识码图里裁出的**纯二维码方块**（已验证可正常识别，指向本页顶部的订阅链接）。
-> 带 ima 水印和文案的原图见 [`assets/knowledge-code-qrcode.jpg`](./assets/knowledge-code-qrcode.jpg)。
-
 ### 方式 2：直接点链接
 [ima.qq.com/wiki/?shareId=7baec...](https://ima.qq.com/wiki/?shareId=7baecdcbf548190c5d1c454fa0c6d4c8d4cbc0adcf0df6d0e02c9d8f303b6ff5)
 
@@ -116,5 +113,3 @@ hunter-hr-knowledge-base/
 </div>
 
 ---
-
-> 本仓库由 [猎头慧聚](https://ima.qq.com/wiki/?shareId=7baecdcbf548190c5d1c454fa0c6d4c8d4cbc0adcf0df6d0e02c9d8f303b6ff5) 维护，持续更新中。
