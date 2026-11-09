@@ -1,6 +1,6 @@
 # 猎头 HR 全能知识库｜Hunter HR Knowledge Base
 
-> 一个公开的**索引与订阅入口**：把「猎头HR全能知识库」在腾讯 ima 上的目录结构、内容清单和使用方式整理在这里，方便转发、检索和持续更新。
+> 一个公开的**索引与订阅入口**：把「猎头HR全能知识库」在腾讯 ima 上的目录结构、内容清单和使用方式整理在这里，方便转发、检索和持续更新
 
 **在线订阅**：<https://ima.qq.com/wiki/?shareId=7baecdcbf548190c5d1c454fa0c6d4c8d4cbc0adcf0df6d0e02c9d8f303b6ff5>
 
